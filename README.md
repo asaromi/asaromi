@@ -9,11 +9,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-- Analyst or Computing💻 &nbsp;
+- 💻 Data Analytics or Computing &nbsp;<br/>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=octave)
 
-- Web Development 🌐 &nbsp;
+- 🌐 Web Development &nbsp;<br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,13 +27,13 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
   
-- 🛢 Database &nbsp;
+- 🛢 Database &nbsp;<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 
-- ⚙️ Version Control System &nbsp;
+- ⚙️ Version Control System &nbsp;<br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)

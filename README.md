@@ -1,8 +1,8 @@
 ## Hi there, I'm Romi. 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻&nbsp;About Me
 
-- 🎓 &nbsp; Has graduated from Sebelas Maret University in Informatics Manjor (Generally known as Computer Science).
+- 🎓 &nbsp; Has graduated from Sebelas Maret University with an Informatics Major (Generally known as Computer Science).
 - 💼 &nbsp; Currently working as Fullstack Developer at [MyRobin](https://app.myrobin.id) & sometimes handling some side projects as Backend Developer.
 - 🌱 &nbsp; Having an interest in learning more about Cloud Architecture, and Linux or Open Source.
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
@@ -39,8 +39,8 @@
   ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=blue)
   
-- 🔧 Code tools or IDE &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🔧 Code tools or IDE &nbsp;<br/>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jetbrains](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=Jetbrains)
 
 <br/>

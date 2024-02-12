@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-- 💼 &nbsp; Currently working as Fullstack Developer at [MyRobin](https://app.myrobin.id) & sometimes handling some side projects as Backend Developer.
+- 💼 &nbsp; Have 3 years experiences on Web Development as Backend or Fullstack.
 - 🌱 &nbsp; Having an interest in learning more about Cloud Architecture, and Linux or Open Source.
 - 🎓 &nbsp; Has graduated from Sebelas Maret University with an Informatics Major (Generally known as Computer Science).
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.

@@ -2,14 +2,14 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-- 💼 &nbsp; Have 3 years experiences on Web Development as Backend or Fullstack.
-- 🌱 &nbsp; Having an interest in learning more about Cloud Architecture, and Linux or Open Source.
+- 💼 &nbsp; Have 3 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on Gunung Raja Paksi.
+- 🌱 &nbsp; Having an interest in learning more about Coding, Cloud Architecture, and Linux or Open Source.
 - 🎓 &nbsp; Has graduated from Sebelas Maret University with an Informatics Major (Generally known as Computer Science).
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
 
 ### 🛠 &nbsp;Tech Stack
 
-- 💻 Data Analytics or Computing &nbsp;<br/>
+- 💻 Data Computing &nbsp;<br/>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=octave)
 
@@ -32,6 +32,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=Firebase)
+  ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoftsqlserver)
 
 - ⚙️ Version Control System &nbsp;<br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

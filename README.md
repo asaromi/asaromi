@@ -46,13 +46,14 @@
 
 <br/>
 
+<!--
 <a href="https://github.com/asaromi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaromi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaromi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
-
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">

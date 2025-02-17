@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-- 💼 &nbsp; Have 3 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on Gunung Raja Paksi.
+- 💼 &nbsp; Have almost 4 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on Gunung Raja Paksi.
 - 🌱 &nbsp; Having an interest in learning more about Coding, Cloud Architecture, and Linux or Open Source.
 - 🎓 &nbsp; Has graduated from Sebelas Maret University with an Informatics Major (Generally known as Computer Science).
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
@@ -23,9 +23,10 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![NuxtJS](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
+  ![NuxtJS](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+  ![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=springboot)
   
 - 🛢 Database &nbsp;<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -43,6 +44,14 @@
 - 🔧 Code tools or IDE &nbsp;<br/>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jetbrains](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=Jetbrains)
+  
+- ☁️ Cloud or Server Deployment tools &nbsp;<br/>
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=D24939)
 
 <br/>
 

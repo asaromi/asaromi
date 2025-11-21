@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-- 💼 &nbsp; Have almost 4 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on Gunung Raja Paksi.
+- 💼 &nbsp; Have almost 4 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on MSIG Life Insurance.
 - 🌱 &nbsp; Having an interest in learning more about Coding, Cloud Architecture, and Linux or Open Source.
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
 

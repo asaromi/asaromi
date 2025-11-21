@@ -4,7 +4,6 @@
 
 - 💼 &nbsp; Have almost 4 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on Gunung Raja Paksi.
 - 🌱 &nbsp; Having an interest in learning more about Coding, Cloud Architecture, and Linux or Open Source.
-- 🎓 &nbsp; Has graduated from Sebelas Maret University with an Informatics Major (Generally known as Computer Science).
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
 
 ### 🛠 &nbsp;Tech Stack
@@ -33,13 +32,14 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=Firebase)
-  ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoftsqlserver)
+  ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=sqlserver)
+  ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oraclesql)
 
 - ⚙️ Version Control System &nbsp;<br/>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=blue)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=blue)
   
 - 🔧 Code tools or IDE &nbsp;<br/>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -66,10 +66,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://asaromi.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-asaromi.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://asaromi.pages.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-asaromi.pages.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/asaromi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmad%20Sabilil%20Maromi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/asaromii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-asaromii-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:a.sabililromi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-a.sabililromi@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:asaromi.ofc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asaromi.ofc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>

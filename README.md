@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-- 💼 &nbsp; Have almost 4 years experiences on Web Development as Backend or Fullstack. Currently I'm a Fullstack Developer on MSIG Life Insurance.
+- 💼 &nbsp; Have more than 4 years experiences on Web Development as Backend or Fullstack.
 - 🌱 &nbsp; Having an interest in learning more about Coding, Cloud Architecture, and Linux or Open Source.
 - 📽️ &nbsp; Watching movies is my side activities. Yeah, I'm a Netflix and Hotstar+ subscriber.
 
@@ -16,8 +16,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
@@ -25,7 +26,9 @@
   ![NuxtJS](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=springboot)
+  ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
   
 - 🛢 Database &nbsp;<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -49,7 +52,6 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=D24939)
 
